@@ -6,9 +6,7 @@ IP Address Calculator for VB6.0是一个基于Visual Basic 6.0的IP地址计算�
 
 如果你有任何问题或建议，请通过以下方式与我们联系：
 
-邮箱：mcbaoge2000@foxmail.com
-
-mcbaoge2000@qq.com
+邮箱：mcbaoge@mcbaoge.com
 
 ## 致谢
 
